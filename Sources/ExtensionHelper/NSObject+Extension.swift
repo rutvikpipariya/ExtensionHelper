@@ -12,3 +12,24 @@ public extension NSObject {
         return NSStringFromClass(self).components(separatedBy: ".").last ?? ""
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
